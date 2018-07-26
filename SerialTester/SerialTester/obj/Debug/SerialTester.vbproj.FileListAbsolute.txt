@@ -1,0 +1,14 @@
+C:\Users\wills_000\AppData\Local\Temporary Projects\SerialTester\bin\Debug\SerialTester.exe.config
+C:\Users\wills_000\AppData\Local\Temporary Projects\SerialTester\bin\Debug\SerialTester.exe
+C:\Users\wills_000\AppData\Local\Temporary Projects\SerialTester\bin\Debug\SerialTester.pdb
+C:\Users\wills_000\AppData\Local\Temporary Projects\SerialTester\bin\Debug\SerialTester.xml
+C:\Users\wills_000\AppData\Local\Temporary Projects\SerialTester\obj\Debug\SerialTester.Form1.resources
+C:\Users\wills_000\AppData\Local\Temporary Projects\SerialTester\obj\Debug\SerialTester.Resources.resources
+C:\Users\wills_000\AppData\Local\Temporary Projects\SerialTester\obj\Debug\SerialTester.vbproj.GenerateResource.Cache
+C:\Users\wills_000\AppData\Local\Temporary Projects\SerialTester\obj\Debug\SerialTester.exe
+C:\Users\wills_000\AppData\Local\Temporary Projects\SerialTester\obj\Debug\SerialTester.xml
+C:\Users\wills_000\AppData\Local\Temporary Projects\SerialTester\obj\Debug\SerialTester.pdb
+X:\Source Code\SerialTester\SerialTester\bin\Debug\SerialTester.exe.config
+X:\Source Code\SerialTester\SerialTester\obj\Debug\SerialTester.exe
+X:\Source Code\SerialTester\SerialTester\obj\Debug\SerialTester.xml
+X:\Source Code\SerialTester\SerialTester\obj\Debug\SerialTester.pdb
